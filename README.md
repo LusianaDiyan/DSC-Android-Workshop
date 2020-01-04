@@ -1,4 +1,4 @@
-# DSC-Android-Workshop
+# DSC Android Workshop Preparation
 
 ## Requirement
 * Operating system: Windows, macOS, Linux
@@ -126,4 +126,4 @@ Click on ‘Start new android project’ to build a new app.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Lusiana Diyan N** - *DSC PENS* -
