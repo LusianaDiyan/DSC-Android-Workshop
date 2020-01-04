@@ -8,7 +8,37 @@
 * Size: 854 MB compressed
 * Developed by: Google, JetBrains
 
-## Installation Guide
+## Java Development Kit (JDK) Installation Guide
+
+### Download Software JDK
+
+1. Download the JDK 8 software on the official website. [Click here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2. Scroll down until find the version of the Java SE Development Kit 8u102 (jdk-8u102-windows-x64.exe)
+
+```
+Note:
+- Don't forget to check the Accept License Agreement.
+- JDK version that we will install (JDK 8)
+```
+Wait until the download is complete.
+
+### JDK Software Installing
+1. Open the program that has been downloaded by double clicking and clicking *Next*.
+2. Click * Next * to start the installation process. Wait until the installation process is complete.
+3. When finished, click *Close* to close the installation process.
+
+### JDK Path Setting
+1. Copy the JDK installation folder location.
+2. Then, right click on This PC > select Properties.
+3. In the new Window (System) > select Advanced System Settings.
+4. Choose Environment Variables.
+5. In the System Variables section look for Path then click Edit.
+6. In the Edit System Variable. Hover over the Variable Value box and move the cursor to the far right. Add a semicolon (;) and Paste the address of the JDK folder location that we copied earlier and click OK.
+7. Return to the Window Environment Variables and click OK, after that will return to the Windows System Properties and click OK again.
+
+[for the full tutorial klik here](https://www.kodingindonesia.com/cara-install-jdk/)
+
+## Android Studio Installation Guide
 
 ### Step - 1
 
