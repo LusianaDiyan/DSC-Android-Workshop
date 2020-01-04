@@ -12,80 +12,88 @@
 
 ### Step - 1
 
-Head over to this [link](https://developer.android.com/studio/#downloads) to get the Android Studio executable or zip file .
+Head over to this [LINK](https://developer.android.com/studio/#downloads) to get the Android Studio executable or zip file .
+
+### Step - 2
+
+1. Click on the "DOWNLOAD ANDROID STUDIO" button .
+2. Click on the “I have read and agree with the above terms and conditions” checkbox followed by the download button.
+3. Click on Save file button in the appeared prompt box and the file will start downloading .
+
+### Step - 3
+
+After the downloading has finished, open the file from downloads and run it .
+It will prompt the following dialogue box .
 
 ```
-Give examples
+Click on next .
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+In the next prompt it’ll ask for a path for installation. Choose a path and hit next.
 
 ```
-Give the example
+Note :The installation path should have the required minimum space.
 ```
 
-And repeat
+### Step – 4
+
+It will start the installation, and once it is completed, it will be like the image shown below .
 
 ```
-until finished
+Click on next
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+### Step – 5
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Once “Finish” is clicked, it will ask whether the previous settings needs to be impoerted (if android studio had been installed earlier), or not.
 
 ```
-Give an example
+It is better to choose the ‘Don’t import Settings option’ .
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
 ```
-Give an example
+Click the OK button
 ```
 
-## Deployment
+### Step - 6
 
-Add additional notes about how to deploy this on a live system
+This will start the Android Studio.
+Meanwhile it will be finding the available SDK components.
 
-## Built With
+### Step - 7
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+After it has found the SDK components, it will redirect to the Welcome dialog box.
 
-## Contributing
+```
+Click on Next .
+```
+Choose Standard and click on Next.
+Now choose the theme, whether Light theme or the Dark one .
+The light one is called the IntelliJ theme whereas the dark theme is called Darcula .
+Choose as required.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+```
+Click on the Next button
+```
 
-## Versioning
+### Step - 8
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+-> Now it is time to download the SDK components .
+```
+Click on Finish .
+```
+It has started downloading the components
+The Android Studio has been successfully configured.
+Now it’s time to launch and build apps.
+
+```
+Click on the Finish button to launch it.
+```
+
+### Step - 9
+```
+Click on ‘Start new android project’ to build a new app.
+````
 
 ## Authors
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
