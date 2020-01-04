@@ -8,17 +8,11 @@
 * Size: 854 MB compressed
 * Developed by: Google, JetBrains
 
-# Project Title
+## Installation Guide
 
-One Paragraph of project description goes here
+### Step - 1
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+Head over to this [link](https://developer.android.com/studio/#downloads) to get the Android Studio executable or zip file .
 
 ```
 Give examples
